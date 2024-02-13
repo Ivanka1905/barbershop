@@ -74,10 +74,10 @@ a {
 }
 
 .hero-title {
-  font-family: "Raleway";
+  font-family:var(--second-family);
   font-weight: 700;
   font-size: 72px;
-  line-height: 1.13;
+  line-height: 1.18;
   letter-spacing: 0.05em;
   color: #ffffff;
 }
@@ -88,3 +88,5 @@ a {
     line-height: 1.66;
     letter-spacing: 0.02em;
     color: #9DA4BD;}
+
+
