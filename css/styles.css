@@ -152,25 +152,62 @@ a {
 }
 
 .services-title {
-           font-family: var(--second-family);
-            font-weight: 700;
-        font-size: 42px;
-        line-height: 1.16;
-        letter-spacing: 0.05em;
-        color: #FFFFFF;
-        background: #000;
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1.16;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  background: #000;
 }
 
 .services-list {
 }
 
-.services-list-item{
-            font-family: var(--font-family);
-       
-        font-weight: 400;
-        font-size: 18px;
-        line-height: 1.67;
-        letter-spacing: 0.02em;
-    
-        color: #9DA4BD;
+.services-list-item {
+  font-family: var(--font-family);
+
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.67;
+  letter-spacing: 0.02em;
+
+  color: #9da4bd;
+}
+
+.btn {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.number {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1.36;
+  letter-spacing: 0.05em;
+  color: #303030;
+}
+
+.number-sup {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.38;
+  text-align: center;
+  color: #ff6c00;
+}
+
+.number-comment {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 1.36;
+  text-align: center;
+  color: #303030;
 }
