@@ -204,7 +204,7 @@ a {
   color: #ff6c00;
 }
 
-.number-comment {
+/* .number-comment {
   font-family: var(--font-family);
   font-weight: 600;
   font-size: 11px;
@@ -241,5 +241,5 @@ a {
         line-height: 1.67;
         letter-spacing: 0.02em;
         color: #555;
-}
+} */
 
